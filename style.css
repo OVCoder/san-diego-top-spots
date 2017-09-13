@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    color: #348704;
+    font-family: 'Sedgwick Ave', cursive;
+    font-size: 3em;
+}
+th {
+    background-color: #bfffe0;
+    color: #348704;
+    border: 1.5px solid #0c2100;
+}
+td {
+    color: #348704;
+    border: 1.5px solid #0c2100;
+    width:33%;
+}
+table, th, td{
+    border: 1px double  #0c2100;
+   }
+.coloredRow{
+    background-color: #eaffeb;
+}
+#link{
+  background: #aaddc4;
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #348704;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin:auto;
+  display:block;
+}
